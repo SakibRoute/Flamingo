@@ -1,0 +1,77 @@
+@media only screen and (max-width: 1400px){
+	h1{
+		font-size: 56px;
+	}
+}
+@media only screen and (max-width: 1170px){
+	
+}
+
+
+@media only screen and (max-width: 990px){
+	img{
+		width: 100%;
+	}
+	.skillContent {
+	    float: none;
+	}
+	.skillSection .sectionHeader {
+	    text-align: center;
+	}
+	.chooseSection .sectionHeader {
+	    text-align: center;
+	}
+	.skillItemList {
+	    width: 80%;
+	    margin-left: auto; 
+	    margin-right: auto; 
+	    text-align: center;
+	}
+	.activitySection{
+		text-align: center;
+	}
+	.activitySection .sectionHeader {
+	    text-align: center;
+	}
+	.activitySection .acheiveMentList {
+	    display: inline-block;
+	    margin-top: 20px;
+	}	
+	.speciality-section .itemImg{
+		min-height: 65px;
+	}
+	.speciality-section img{
+		width: auto;
+	}
+	.priceSection img{
+		width: auto;
+	}
+	.priceItem {
+	    margin-bottom: 15px;
+	}
+	.professionals .proThumb{
+		min-height: 375px;
+	}
+	.postContent {
+		text-align: center;
+	}
+	.postDate {
+	    float: none;
+	    display: inline-block;
+	    margin-bottom: 15px;
+	}
+	.postDescription .metadata{
+		display: inline-block;
+	}
+	.articleSection .postItem {
+	    margin: 0 0 20px 0;
+	}
+}
+@media only screen and (max-width: 768px){
+}
+@media only screen and (max-width: 600px){
+	
+}
+@media only screen and (max-width: 480px){
+	
+}
